@@ -1,4 +1,4 @@
-package veroslaves.events;
+package veroslaves.upcoming_events_back.events;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
